@@ -1,0 +1,41 @@
+.image1-position{
+    /* Images Banner page d'accueil*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:500px;
+    width: 100%;
+    background-image: url("https://cdn.pixabay.com/photo/2017/08/02/01/24/water-2569507_960_720.jpg");
+}
+
+.title-size {
+    color: #f3969a;
+    font-size: 72px ;
+    text-align: center;
+    padding-top: 10%;
+}
+ .paraph-size{
+    color: #ffffff ;
+    font-size: 1.25rem;
+    text-align: center;
+    white-space:pre;
+ }
+
+ /* Images Banner page team*/
+
+ .image2-position{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:500px;
+    width: 100%;
+    background-image: url("https://cdn.pixabay.com/photo/2015/01/09/11/09/startup-594091_960_720.jpg");
+}
+ 
+.title-team-size{
+    color: #78c2ad;
+    font-size: 72px ;
+    text-align: center;
+    padding-top: 10%;
+}
+
